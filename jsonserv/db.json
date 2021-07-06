@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Title",
+      "body": "Body of the first title",
+      "author": "Farshid",
+      "category": "react"
+    },
+    {
+      "id": 2,
+      "title": "Second Title",
+      "body": "Body of the second title",
+      "author": "John",
+      "category": "redux"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "body": "body of my third post",
+      "author": "Sarah",
+      "category": "",
+      "categories": [
+        {
+          "code": "react",
+          "name": "React"
+        },
+        {
+          "code": "redux",
+          "name": "Redux"
+        },
+        {
+          "code": "angular",
+          "name": "Angular"
+        },
+        {
+          "code": "car",
+          "name": "Car"
+        },
+        {
+          "code": "action",
+          "name": "Action"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "asdadasd",
+      "body": "asdasd",
+      "author": "adasd",
+      "category": "action",
+      "categories": [
+        {
+          "code": "react",
+          "name": "React"
+        },
+        {
+          "code": "redux",
+          "name": "Redux"
+        },
+        {
+          "code": "angular",
+          "name": "Angular"
+        },
+        {
+          "code": "car",
+          "name": "Car"
+        },
+        {
+          "code": "action",
+          "name": "Action"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "code": "react",
+      "name": "React"
+    },
+    {
+      "code": "redux",
+      "name": "Redux"
+    },
+    {
+      "code": "angular",
+      "name": "Angular"
+    },
+    {
+      "code": "car",
+      "name": "Car"
+    },
+    {
+      "code": "action",
+      "name": "Action"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Sarah"
+    },
+    {
+      "id": 2,
+      "name": "Sam"
+    }
+  ]
+}
